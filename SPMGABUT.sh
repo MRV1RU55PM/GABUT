@@ -16,7 +16,7 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 
 
-#Recoded By : MiSetya
+#Recoded By : MRV1RU55PM
 #Tool Unfaedah :v
 
 clear
@@ -24,7 +24,7 @@ clear
             echo $pur"  ╦ ╦╔╗╔╔═╗╔═╗╔═╗╔╦╗╔═╗╦ ╦   "      
             echo $pur"  ║ ║║║║╠╣ ╠═╣║╣  ║║╠═╣╠═╣"
             echo $pur"  ╚═╝╝╚╝╚  ╩ ╩╚═╝═╩╝╩ ╩╩ ╩"
-            echo $mer"  ×××Tool Unfaedah | MiSetya××× $st"
+            echo $mer"  ×××Tool Unfaedah | MRV1RU55PM××× $st"
 
 lagi=1
 while [ $lagi -lt 6 ];
